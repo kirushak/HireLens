@@ -1,0 +1,123 @@
+/* Custom styles for Resume Analyzer */
+
+/* Card animations and hover effects */
+.card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* Results section animations */
+.fade-in {
+  animation: fadeIn 0.8s ease-in;
+}
+
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+/* Progress bars styling */
+.progress {
+  height: 10px;
+  border-radius: 5px;
+}
+
+/* Skills pills styling */
+.skill-pill {
+  display: inline-block;
+  padding: 0.35em 0.65em;
+  margin: 0.2em;
+  border-radius: 50rem;
+  transition: all 0.2s ease;
+}
+
+.skill-pill:hover {
+  transform: scale(1.05);
+}
+
+.skill-technical {
+  background-color: var(--bs-info);
+  color: var(--bs-dark);
+}
+
+.skill-soft {
+  background-color: var(--bs-success);
+  color: var(--bs-white);
+}
+
+.skill-language {
+  background-color: var(--bs-warning);
+  color: var(--bs-dark);
+}
+
+.skill-certification {
+  background-color: var(--bs-purple);
+  color: var(--bs-white);
+}
+
+/* File upload custom styling */
+.custom-file-upload {
+  border: 2px dashed var(--bs-gray-500);
+  border-radius: 8px;
+  padding: 2.5rem 1rem;
+  text-align: center;
+  transition: all 0.3s ease;
+}
+
+.custom-file-upload:hover {
+  border-color: var(--bs-primary);
+  background-color: rgba(13, 110, 253, 0.05);
+}
+
+.custom-file-upload.dragover {
+  border-color: var(--bs-primary);
+  background-color: rgba(13, 110, 253, 0.1);
+}
+
+/* Loading spinner */
+.spinner-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}
+
+/* Job match styling */
+.match-percentage {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.match-good {
+  color: var(--bs-success);
+}
+
+.match-average {
+  color: var(--bs-warning);
+}
+
+.match-poor {
+  color: var(--bs-danger);
+}
+
+/* Grammar error styling */
+.grammar-error {
+  background-color: rgba(220, 53, 69, 0.1);
+  border-bottom: 2px solid var(--bs-danger);
+  padding: 0 2px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .match-percentage {
+    font-size: 2rem;
+  }
+  
+  .custom-file-upload {
+    padding: 1.5rem 0.5rem;
+  }
+}

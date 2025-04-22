@@ -1,0 +1,44 @@
+{
+  "job_roles": [
+    {
+      "title": "Software Engineer",
+      "keywords": ["software", "developer", "programming", "coding", "java", "python", "javascript", "c++", "algorithms", "data structures"]
+    },
+    {
+      "title": "Data Scientist",
+      "keywords": ["data science", "machine learning", "statistics", "python", "r", "ai", "deep learning", "analytics", "data mining", "big data"]
+    },
+    {
+      "title": "Web Developer",
+      "keywords": ["web", "frontend", "backend", "full-stack", "html", "css", "javascript", "react", "angular", "vue", "node.js", "php"]
+    },
+    {
+      "title": "Product Manager",
+      "keywords": ["product", "management", "agile", "scrum", "roadmap", "strategy", "user stories", "prioritization", "requirements", "stakeholders"]
+    },
+    {
+      "title": "UX/UI Designer",
+      "keywords": ["ux", "ui", "user experience", "user interface", "design", "wireframes", "prototypes", "usability", "figma", "sketch", "adobe xd"]
+    },
+    {
+      "title": "DevOps Engineer",
+      "keywords": ["devops", "ci/cd", "continuous integration", "deployment", "aws", "azure", "gcp", "docker", "kubernetes", "jenkins", "terraform"]
+    },
+    {
+      "title": "Business Analyst",
+      "keywords": ["business analysis", "requirements", "stakeholders", "process", "documentation", "sql", "data analysis", "reporting", "visualization"]
+    },
+    {
+      "title": "Project Manager",
+      "keywords": ["project management", "pmp", "agile", "scrum", "waterfall", "budget", "timeline", "resources", "risk management", "planning"]
+    },
+    {
+      "title": "Marketing Specialist",
+      "keywords": ["marketing", "digital marketing", "seo", "sem", "social media", "content", "campaigns", "analytics", "brand", "strategy"]
+    },
+    {
+      "title": "Sales Representative",
+      "keywords": ["sales", "business development", "account management", "negotiation", "client", "customer", "crm", "pipeline", "quota", "closing"]
+    }
+  ]
+}

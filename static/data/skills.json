@@ -1,0 +1,31 @@
+{
+  "technical_skills": [
+    "python", "java", "javascript", "html", "css", "react", "angular", "vue", 
+    "node.js", "express", "flask", "django", "spring", "hibernate", "sql", 
+    "mysql", "postgresql", "mongodb", "redis", "aws", "azure", "gcp", 
+    "docker", "kubernetes", "jenkins", "git", "jira", "agile", "scrum",
+    "c++", "c#", "php", "ruby", "swift", "kotlin", "rust", "golang", "scala",
+    "machine learning", "deep learning", "artificial intelligence", "data science",
+    "tensorflow", "pytorch", "scikit-learn", "pandas", "numpy", "hadoop", "spark",
+    "tableau", "power bi", "excel", "word", "powerpoint", "photoshop", "illustrator",
+    "figma", "sketch", "adobe xd", "ui/ux", "seo", "digital marketing"
+  ],
+  "soft_skills": [
+    "communication", "teamwork", "problem solving", "critical thinking", 
+    "creativity", "leadership", "time management", "adaptability", "flexibility",
+    "organization", "planning", "decision making", "conflict resolution",
+    "attention to detail", "interpersonal skills", "emotional intelligence",
+    "negotiation", "persuasion", "presentation", "public speaking", "writing",
+    "customer service", "project management", "prioritization", "self-motivated",
+    "analytical", "logical", "innovative", "patient", "reliable", "responsible"
+  ],
+  "certifications": [
+    "aws certified", "microsoft certified", "google certified", "comptia", 
+    "cisco certified", "pmp", "six sigma", "itil", "scrum master", "agile certified",
+    "cpa", "cfa", "ceh", "cissp", "ccna", "ccnp", "mcsa", "mcse", "rhce", "salesforce"
+  ],
+  "languages": [
+    "english", "spanish", "french", "german", "italian", "portuguese", "russian",
+    "chinese", "japanese", "korean", "arabic", "hindi", "dutch", "swedish", "norwegian"
+  ]
+}
